@@ -6,7 +6,7 @@ First, run:
 yarn
 ```
 
-to install the dependencies
+to install the dependencies.
 
 After, run the development server:
 
